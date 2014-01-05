@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Welcome to the dojo :)
 
 To install the required dependencies run
@@ -20,3 +21,7 @@ bundle exec guard
 ```
 
 Have fun!
+=======
+kata
+====
+>>>>>>> 4597f3284a1614ab413203ad53180712e99f98d1
