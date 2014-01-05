@@ -1,0 +1,9 @@
+# put your extra gems here
+# gem 'rails'
+
+# require the base Gemfile
+eval(IO.read('../Gemfile'), binding)
+
+gem 'pry'
+gem 'pry-doc'
+gem 'factory_girl'
