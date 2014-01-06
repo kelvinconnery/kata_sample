@@ -1,0 +1,21 @@
+# Logfile created on 2014-01-06 11:53:30 +0800 by logger.rb/36483
+I, [2014-01-06T11:53:30.094516 #3303]  INFO -- : 0:  i18n (0.6.9) from /Users/mindvalley/.rvm/gems/ruby-2.0.0-p0/specifications/i18n-0.6.9.gemspec
+I, [2014-01-06T11:53:30.095320 #3303]  INFO -- : 0:  minitest (4.7.5) from /Users/mindvalley/.rvm/gems/ruby-2.0.0-p0/specifications/minitest-4.7.5.gemspec
+I, [2014-01-06T11:53:30.095825 #3303]  INFO -- : 0:  multi_json (1.8.2) from /Users/mindvalley/.rvm/gems/ruby-2.0.0-p0/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-06T11:53:30.096285 #3303]  INFO -- : 0:  atomic (1.1.14) from /Users/mindvalley/.rvm/gems/ruby-2.0.0-p0/specifications/atomic-1.1.14.gemspec
+I, [2014-01-06T11:53:30.096759 #3303]  INFO -- : 0:  thread_safe (0.1.3) from /Users/mindvalley/.rvm/gems/ruby-2.0.0-p0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-06T11:53:30.097218 #3303]  INFO -- : 0:  tzinfo (0.3.38) from /Users/mindvalley/.rvm/gems/ruby-2.0.0-p0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-06T11:53:30.097662 #3303]  INFO -- : 0:  activesupport (4.0.2) from /Users/mindvalley/.rvm/gems/ruby-2.0.0-p0/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-06T11:53:30.098142 #3303]  INFO -- : 0:  coderay (1.1.0) from /Users/mindvalley/.rvm/gems/ruby-2.0.0-p0/specifications/coderay-1.1.0.gemspec
+I, [2014-01-06T11:53:30.098591 #3303]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/mindvalley/.rvm/gems/ruby-2.0.0-p0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-01-06T11:53:30.099040 #3303]  INFO -- : 0:  factory_girl (4.3.0) from /Users/mindvalley/.rvm/gems/ruby-2.0.0-p0/specifications/factory_girl-4.3.0.gemspec
+I, [2014-01-06T11:53:30.099451 #3303]  INFO -- : 0:  method_source (0.8.2) from /Users/mindvalley/.rvm/gems/ruby-2.0.0-p0/specifications/method_source-0.8.2.gemspec
+I, [2014-01-06T11:53:30.099890 #3303]  INFO -- : 0:  slop (3.4.7) from /Users/mindvalley/.rvm/gems/ruby-2.0.0-p0/specifications/slop-3.4.7.gemspec
+I, [2014-01-06T11:53:30.100346 #3303]  INFO -- : 0:  pry (0.9.12.4) from /Users/mindvalley/.rvm/gems/ruby-2.0.0-p0/specifications/pry-0.9.12.4.gemspec
+I, [2014-01-06T11:53:30.101550 #3303]  INFO -- : 0:  yard (0.8.7.3) from /Users/mindvalley/.rvm/gems/ruby-2.0.0-p0/specifications/yard-0.8.7.3.gemspec
+I, [2014-01-06T11:53:30.102043 #3303]  INFO -- : 0:  pry-doc (0.5.1) from /Users/mindvalley/.rvm/gems/ruby-2.0.0-p0/specifications/pry-doc-0.5.1.gemspec
+I, [2014-01-06T11:53:30.102489 #3303]  INFO -- : 0:  rspec-core (2.14.7) from /Users/mindvalley/.rvm/gems/ruby-2.0.0-p0/specifications/rspec-core-2.14.7.gemspec
+I, [2014-01-06T11:53:30.102962 #3303]  INFO -- : 0:  rspec-expectations (2.14.4) from /Users/mindvalley/.rvm/gems/ruby-2.0.0-p0/specifications/rspec-expectations-2.14.4.gemspec
+I, [2014-01-06T11:53:30.103379 #3303]  INFO -- : 0:  rspec-mocks (2.14.4) from /Users/mindvalley/.rvm/gems/ruby-2.0.0-p0/specifications/rspec-mocks-2.14.4.gemspec
+I, [2014-01-06T11:53:30.103817 #3303]  INFO -- : 0:  rspec (2.14.1) from /Users/mindvalley/.rvm/gems/ruby-2.0.0-p0/specifications/rspec-2.14.1.gemspec
+I, [2014-01-06T11:53:30.104236 #3303]  INFO -- : 0:  bundler (1.5.1) from /Users/mindvalley/.rvm/gems/ruby-2.0.0-p0/specifications/bundler-1.5.1.gemspec

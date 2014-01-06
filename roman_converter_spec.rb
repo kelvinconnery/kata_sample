@@ -36,6 +36,34 @@ describe RomanConverter do
     expect(converter.convert(49)).to eq('XLIX')
     expect(converter.convert(51)).to eq('LI')
     expect(converter.convert(89)).to eq('LXXXIX')
+    expect(converter.convert(90)).to eq('XC')
+    expect(converter.convert(99)).to eq('XCIX')
+    expect(converter.convert(100)).to eq('C')
+    expect(converter.convert(101)).to eq('CI')
+    expect(converter.convert(104)).to eq('CIV')
+    expect(converter.convert(109)).to eq('CIX')
+    expect(converter.convert(300)).to eq('CCC')    
+    expect(converter.convert(400)).to eq('CD')
+    expect(converter.convert(500)).to eq('D')
+    expect(converter.convert(501)).to eq('DI')
+    expect(converter.convert(530)).to eq('DXXX')    
+    expect(converter.convert(550)).to eq('DL')
+    expect(converter.convert(707)).to eq('DCCVII')
+    expect(converter.convert(890)).to eq('DCCCXC')
+    expect(converter.convert(900)).to eq('CM')
+    expect(converter.convert(1500)).to eq('MD')
+    expect(converter.convert(1800)).to eq('MDCCC')
+    expect(converter.convert(1904)).to eq('MCMIV')
+    expect(converter.convert(1954)).to eq('MCMLIV')    
+    expect(converter.convert(2008)).to eq('MMVIII')
+
+
+
+
+
+
+
+
   end
 
 

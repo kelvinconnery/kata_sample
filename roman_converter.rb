@@ -1,6 +1,6 @@
 class RomanConverter
 
-  MAP = [[50, 'L'], [40, 'XL'], [10, 'X']]
+  MAP = [[1000,'M'],[900,'CM'],[500,'D'],[400,'CD'],[100,'C'],[90,'XC'],[50, 'L'], [40, 'XL'], [10, 'X'], [9, 'IX'] , [5,'V'] , [4,'IV'] , [1,'I']]
 
   def convert(number)
     roman = ''
@@ -12,19 +12,6 @@ class RomanConverter
       end
     end
     
-    if number >= 5 && number < 9
-      roman += 'V'
-      number -= 5
-    end
-
-    if number == 4
-       roman += 'IV'
-    elsif number == 9
-      roman += 'IX'
-    else
-      roman += 'I' * number
-    end
-
     roman
   end
 
